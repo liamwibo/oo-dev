@@ -14,4 +14,5 @@ Om de practice-oefening van 2. classes, part 1, te openen, ga je naar de volgend
 | 1 Java syntax firstexample (geen oefening maar voorbeeld)  | oo-dev/1-Java-syntax/firstexample   |
 | 2 Classes part 1 practice | oo-dev/2-Classes-part-1/practice/example-bicycle   |
 | 2 Classes part 1 exercies  | oo-dev/2-Classes-part-1/exercises/2 Start folders classes part 1   |
-| 3 Classes part 2 practice  | ...   |
+| 2a Exercises Scanner Exercise 1  | oo-dev/2-Classes-part-1/exercises/Scanner exercises/ScannerEx1   |
+| 2a Exercises Scanner Exercise 12 | oo-dev/2-Classes-part-1/exercises/Scanner exercises/ScannerEx2   |

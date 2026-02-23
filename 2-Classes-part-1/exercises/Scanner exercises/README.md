@@ -1,8 +1,6 @@
-# Correcte output oefeningen 2.Classes part 1.
+# Correcte output scanner oefeningen
 
-## Scanner exercises
-
-### Oefening 1 output:
+## Oefening 1 output:
 
 ```
 First name: Barry
