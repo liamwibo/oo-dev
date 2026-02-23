@@ -1,4 +1,4 @@
-# Hoe open je een oefening.
+# Hoe open je een oefening? 'Elke powerpoint staat in de map van de oefening als een pdf omdat een powerpoint bekijken in canvas dikke poep is :)'
 
 Om een oefening te openen, gebruik je niet de map **oo-dev** als hoofdmap, maar de map van de specifieke oefening.
 
