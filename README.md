@@ -11,12 +11,13 @@ Om de practice-oefening van 2. classes, part 1, te openen, ga je naar de volgend
 
 | Oefening | Locatie |
 | ------ | ------ |
-| 1 Java syntax firstexample (geen oefening maar voorbeeld)  | oo-dev/1-Java-syntax/firstexample   |
-| 2 Classes part 1 practice | oo-dev/2-Classes-part-1/practice/example-bicycle   |
-| 2 Classes part 1 exercies  | oo-dev/2-Classes-part-1/exercises/2 Start folders classes part 1   |
-| 2a Exercises Scanner Exercise 1  | oo-dev/2-Classes-part-1/exercises/Scanner exercises/ScannerEx1   |
-| 2a Exercises Scanner Exercise 2 | oo-dev/2-Classes-part-1/exercises/Scanner exercises/ScannerEx2   |
-| 2a Exercises Scanner Exercise 3 | oo-dev/2-Classes-part-1/exercises/Scanner exercises/ScannerEx3  |
-| 2a Exercises Scanner Exercise 4 | oo-dev/2-Classes-part-1/exercises/Scanner exercises/ScannerEx4  |
+| 1 Java syntax firstexample (geen oefening maar voorbeeld)  | oo-dev/1-Java-syntax/firstexample/   |
+| 2b Classes part 1 practice | oo-dev/2-Classes-part-1/practice/   |
+| 2a Exercises Scanner Exercise 1  | oo-dev/2-Classes-part-1/exercises/Scanner exercises/   |
+| 2b Classes part 1 exercies  | oo-dev/2-Classes-part-1/exercises/2 Start folders classes part 1   |
+| 3b Classes part 2 practice  | /home/liam/Documents/oo-dev/3-Classes-part-2/practice/   |
+| 3 Classes part 2  | /home/liam/Documents/oo-dev/3-Classes-part-2/exercises/   |
+
+
 
 # NOTE: in elke map van oefeningen staat er een README.md bestand met de output in de console als je deze oefening runned. Deze output is alleen als je dezelfde waarde als mijn oefeningen gebruikt en kan dus iets varieren.
