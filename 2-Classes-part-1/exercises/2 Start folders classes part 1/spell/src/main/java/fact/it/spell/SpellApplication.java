@@ -11,7 +11,17 @@ public class SpellApplication {
         SpringApplication.run(SpellApplication.class, args);
         // write code starting after this line
 
+        //define spell object
+        Spell mySpell = new Spell();
 
+        //set and modify spell object
+        mySpell.setText("pass");
+        mySpell.echo();
+        mySpell.echo();
+
+        //output
+        System.out.println("You created a Spell-object with the following values:");
+        System.out.println("The text = " + mySpell.getText() + " and " + mySpell.getNumberOperations() + " operations were performed on it");
 
         System.exit(0);
     }
