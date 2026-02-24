@@ -7,4 +7,7 @@ The year of your bicycle is: 2016
 The rental price of your bicycle is: 4.5
 After increasing the price, the rental price is now: 5.0
 And the price per year is: 60.0
+Student data:
+Full name: John SMITH (JSm)
+Email: r0748545@student.thomasmore.be
 ```
