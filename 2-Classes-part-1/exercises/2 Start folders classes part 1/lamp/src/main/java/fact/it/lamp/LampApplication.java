@@ -11,7 +11,14 @@ public class LampApplication {
         SpringApplication.run(LampApplication.class, args);
         // write code starting after this line
 
+        //define lamp object
+        Lamp myLamp = new Lamp();
 
+        myLamp.setBrand("Osram");
+        myLamp.setPower(8);
+
+        System.out.println("You created a Lamp-object with the following values:");
+        System.out.println(myLamp.getBrand() + " - " + myLamp.getPower() + " Watt(" + myLamp.showPowerInTermsOfStars() + ")");
 
         System.exit(0);
     }

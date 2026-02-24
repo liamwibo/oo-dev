@@ -11,6 +11,10 @@ public class RunnerApplication {
         SpringApplication.run(RunnerApplication.class, args);
         // write code starting after this line
 
+        Runner myRunner = new Runner();
+
+        System.out.println("You created a Runner-object of this class and use its methods in order to show the following values");
+        System.out.println(myRunner.getName() + "(" + myRunner.getAge() + " years), best performance on the 100m = " + );
 
 
         System.exit(0);
