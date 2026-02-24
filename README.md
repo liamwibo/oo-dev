@@ -19,4 +19,4 @@ Om de practice-oefening van 2. classes, part 1, te openen, ga je naar de volgend
 | 2a Exercises Scanner Exercise 3 | oo-dev/2-Classes-part-1/exercises/Scanner exercises/ScannerEx3  |
 | 2a Exercises Scanner Exercise 4 | oo-dev/2-Classes-part-1/exercises/Scanner exercises/ScannerEx4  |
 
-# NOTE: in elke map van oefeningen staat er een README.md bestand met de output in de console als je deze oefening draait. Deze output is alleen als je dezelfde waarde als mijn oefeningen gebruikt en kan dus iets varieren.
+# NOTE: in elke map van oefeningen staat er een README.md bestand met de output in de console als je deze oefening runned. Deze output is alleen als je dezelfde waarde als mijn oefeningen gebruikt en kan dus iets varieren.
