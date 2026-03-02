@@ -1,0 +1,9 @@
+int result1 = Double.Compare(0.2, 0.3);
+
+double obj1 = 0.5;
+int result2 = obj1.compareTo(0.6);
+
+boolean restult3 = Double.isInfinite(0.5);
+
+double obj3 = 0.5;
+boolean result4 = obj3.isNaN()
