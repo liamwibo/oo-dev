@@ -1,0 +1,7 @@
+Dream myDream = new Dream("Naar huis gaan");
+
+String deeper = myDream.makeDeeper(1);
+
+int minimumLenght = Dream.getMinimumLenght();
+
+myDream.extend("blablabla");

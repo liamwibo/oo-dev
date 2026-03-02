@@ -1,0 +1,10 @@
+String obj1 = "object 1";
+bool endsWithOne = obj1.endsWith("1");
+
+String obj2 = "object 2";
+String result = obj2.concat("bla bla bla");
+
+String result1 = String.valueOf(0.3);
+
+String obj3 = "object 3";
+char result2 = obj3.charAt(2);
