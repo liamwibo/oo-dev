@@ -15,9 +15,9 @@ public class ExerciseDateAnalyzerApplication {
 
         System.out.println("You were born on: " + myDate.getDate());
 
-        System.out.println("Day of the month: " + myDate.getNumberDayOfTheMonth());
+        System.out.println("Day of the month: " + myDate.getNumberedDayOfTheMonth());
 
-        System.out.println("Day of the year: " + myDate.getNumberDayOfTheYear());
+        System.out.println("Day of the year: " + myDate.getNumberedDayOfTheYear());
 
         System.out.println("Weekday: " + myDate.getDayOfWeek());
 

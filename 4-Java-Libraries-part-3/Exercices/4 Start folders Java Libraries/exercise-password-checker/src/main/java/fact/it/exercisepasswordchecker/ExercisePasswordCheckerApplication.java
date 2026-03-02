@@ -9,7 +9,7 @@ public class ExercisePasswordCheckerApplication {
     public static void main(String[] args) {
         SpringApplication.run(ExercisePasswordCheckerApplication.class, args);
 
-        
+
 
         System.exit(0);
     }

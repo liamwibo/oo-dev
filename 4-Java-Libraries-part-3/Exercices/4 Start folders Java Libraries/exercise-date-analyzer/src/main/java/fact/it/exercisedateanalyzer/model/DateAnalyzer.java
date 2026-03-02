@@ -17,11 +17,11 @@ public class DateAnalyzer {
         return convertDateToString(this.date);
     }
 
-    public int getNumberDayOfTheYear(){
+    public int getNumberedDayOfTheYear(){
         return this.date.getDayOfYear();
     }
 
-    public int getNumberDayOfTheMonth(){
+    public int getNumberedDayOfTheMonth(){
         return this.date.getDayOfMonth();
     }
 
