@@ -1,5 +1,8 @@
 package fact.it.exercisepasswordchecker;
+import fact.it.exercisepasswordchecker.model.PasswordChecker;
 import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class ExercisePasswordCheckerApplicationTests {
     @Test
@@ -40,7 +43,7 @@ public class ExercisePasswordCheckerApplicationTests {
         assertEquals("Unsafe", pc.checkSafety());
 
         // Case 3: Long enough and has digit no special character -> Unsafe
-        pc.setPassword("P@ssword123");
+        pc.setPassword("Password123");
         assertEquals("Unsafe", pc.checkSafety());
 
         // Case 4: Long enough and has digit and special character -> Safe
